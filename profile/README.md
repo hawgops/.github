@@ -9,8 +9,6 @@ To create bug reports or suggest features, please use the templates located [her
 ## HawgOps
 ![version](https://img.shields.io/badge/Version-v4-brightgreen?style=for-the-badge)
 ![released](https://img.shields.io/badge/Released-26_Oct_2023-blue?style=for-the-badge)
-![status](https://status.hawg-ops.com/api/badge/1/status?style=for-the-badge)
-![uptime](https://status.hawg-ops.com/api/badge/1/uptime?style=for-the-badge)
 
 Originally created by Neo, but lost to time, Porkins resurrected HawgOps, greatly enhancing the capabilities to the warfighter.
 Users are able to generate scenarios, add ground unit markers, shapes, analyze, and collaborate on scenarios.
@@ -54,8 +52,6 @@ Users are able to generate scenarios, add ground unit markers, shapes, analyze, 
 ## HawgOps | Plan
 ![version](https://img.shields.io/badge/Version-v2-brightgreen?style=for-the-badge)
 ![released](https://img.shields.io/badge/Released-04_May_2024-blue?style=for-the-badge)
-![status](https://status.hawg-ops.com/api/badge/2/status?style=for-the-badge)
-![uptime](https://status.hawg-ops.com/api/badge/2/uptime?style=for-the-badge)
 
 Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions as a SOF or mission plan prior to sortie, aggregating weather information
 
@@ -66,8 +62,6 @@ Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions
 ## HawgOps | Logbook reader
 ![version](https://img.shields.io/badge/Version-v1-brightgreen?style=for-the-badge)
 ![released](https://img.shields.io/badge/Released-07_Dec_2022-blue?style=for-the-badge)
-![status](https://status.hawg-ops.com/api/badge/11/status?style=for-the-badge)
-![uptime](https://status.hawg-ops.com/api/badge/11/uptime?style=for-the-badge)
 
 Scan in and digitize your USAF Individual Flight Training Summary form.
 
@@ -76,8 +70,6 @@ Scan in and digitize your USAF Individual Flight Training Summary form.
 ## HawgOps | Symbol
 ![version](https://img.shields.io/badge/Version-v2-brightgreen?style=for-the-badge)
 ![released](https://img.shields.io/badge/Released-30_Jan_2024-blue?style=for-the-badge)
-![status](https://status.hawg-ops.com/api/badge/3/status?style=for-the-badge)
-![uptime](https://status.hawg-ops.com/api/badge/3/uptime?style=for-the-badge)
 
 Used to host static image files for Google Earth KML files, generate and save the markers and symbols used in HawgOps as vector graphics (.svg) or raster images (.png)
 
